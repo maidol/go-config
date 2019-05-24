@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/micro/go-config/source"
-	cetcd "go.etcd.io/etcd/clientv3"
-	"go.etcd.io/etcd/mvcc/mvccpb"
+	cetcd "github.com/coreos/etcd/clientv3"
+	"github.com/coreos/etcd/mvcc/mvccpb"
 )
 
 // Currently a single etcd reader
