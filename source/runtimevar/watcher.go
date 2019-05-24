@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/micro/go-config/source"
+	"github.com/maidol/go-config/source"
 	"gocloud.dev/runtimevar"
 )
 

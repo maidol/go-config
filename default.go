@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-config/loader"
-	"github.com/micro/go-config/loader/memory"
-	"github.com/micro/go-config/reader"
-	"github.com/micro/go-config/reader/json"
-	"github.com/micro/go-config/source"
+	"github.com/maidol/go-config/loader"
+	"github.com/maidol/go-config/loader/memory"
+	"github.com/maidol/go-config/reader"
+	"github.com/maidol/go-config/reader/json"
+	"github.com/maidol/go-config/source"
 )
 
 type config struct {
