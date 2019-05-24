@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/BurntSushi/toml v0.3.1
+	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2 // indirect
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/coreos/etcd v3.3.13+incompatible
 	github.com/fsnotify/fsnotify v1.4.7
@@ -12,8 +13,10 @@ require (
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/hashicorp/hcl v1.0.0
 	github.com/imdario/mergo v0.3.7
+	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/micro/cli v0.1.0
 	github.com/micro/go-micro v1.2.0
+	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/pborman/uuid v1.2.0
 	gocloud.dev v0.13.0
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
