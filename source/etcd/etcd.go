@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-config/source"
-	cetcd "go.etcd.io/etcd/clientv3"
+	cetcd "github.com/coreos/etcd/clientv3"
 	"github.com/coreos/etcd/mvcc/mvccpb"
 )
 
