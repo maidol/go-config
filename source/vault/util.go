@@ -2,7 +2,7 @@ package vault
 
 import (
 	"fmt"
-	"github.com/maidol/go-config/source"
+	"github.com/micro/go-config/source"
 	"net"
 	"net/url"
 	"strings"

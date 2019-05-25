@@ -1,4 +1,4 @@
-# Config [![GoDoc](https://godoc.org/github.com/maidol/go-config?status.svg)](https://godoc.org/github.com/maidol/go-config)
+# Config [![GoDoc](https://godoc.org/github.com/micro/go-config?status.svg)](https://godoc.org/github.com/micro/go-config)
 
 Go Config is a pluggable dynamic config library.
 

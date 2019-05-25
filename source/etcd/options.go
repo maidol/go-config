@@ -3,7 +3,7 @@ package etcd
 import (
 	"context"
 
-	"github.com/maidol/go-config/source"
+	"github.com/micro/go-config/source"
 )
 
 type addressKey struct{}

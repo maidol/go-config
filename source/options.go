@@ -3,8 +3,8 @@ package source
 import (
 	"context"
 
-	"github.com/maidol/go-config/encoder"
-	"github.com/maidol/go-config/encoder/json"
+	"github.com/micro/go-config/encoder"
+	"github.com/micro/go-config/encoder/json"
 )
 
 type Options struct {

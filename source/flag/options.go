@@ -3,7 +3,7 @@ package flag
 import (
 	"context"
 
-	"github.com/maidol/go-config/source"
+	"github.com/micro/go-config/source"
 )
 
 type includeUnsetKey struct{}

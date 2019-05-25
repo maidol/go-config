@@ -3,7 +3,7 @@ package vault
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/maidol/go-config"
+	"github.com/micro/go-config"
 	"os"
 	"reflect"
 	"strings"

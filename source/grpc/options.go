@@ -3,7 +3,7 @@ package grpc
 import (
 	"context"
 	"crypto/tls"
-	"github.com/maidol/go-config/source"
+	"github.com/micro/go-config/source"
 )
 
 type addressKey struct{}

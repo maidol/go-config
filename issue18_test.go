@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maidol/go-config/source/env"
-	"github.com/maidol/go-config/source/file"
+	"github.com/micro/go-config/source/env"
+	"github.com/micro/go-config/source/file"
 )
 
 func createFileForIssue18(t *testing.T, content string) *os.File {
